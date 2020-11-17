@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"urlencode"
+
+	"github.com/hzms/urlencode"
 )
 
 type Book struct {
